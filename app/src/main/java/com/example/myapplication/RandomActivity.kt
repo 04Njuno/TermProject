@@ -18,13 +18,13 @@ class RandomActivity : AppCompatActivity() {
     private val indexNum = random.nextInt(7)
 
     var videoIds = mutableListOf(
-        "dmEU6-UQSgU",
-        "lmOUj3xqGcM",
-        "lGvHIB2VfWc",
-        "ITsE1bO1qHk",
-        "uHUpuON1y08",
-        "r6HWlvMYboQ",
-        "qjlPUNPt2uw"
+        "yCttNrxpWj4",
+        "X0PUdt1gt5c",
+        "oTth_Tm-LaQ",
+        "cr-kyC4hGXA",
+        "ioMUH0zpqMM",
+        "ojQoCfTRTkw",
+        "DMmoq-0Zjt0"
     )
     var videoTitle = ""
     private val videoId = videoIds[indexNum]
