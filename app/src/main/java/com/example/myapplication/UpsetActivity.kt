@@ -13,7 +13,7 @@ import org.jsoup.Jsoup
 import java.io.IOException
 import java.util.*
 
-class ExcitingActivity : AppCompatActivity() {
+class UpsetActivity : AppCompatActivity() {
     private val random = Random()
     private val indexNum = random.nextInt(7)
 
